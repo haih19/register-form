@@ -1,0 +1,22 @@
+.wrapper {
+   border: none;
+   border-radius: 6px;
+   line-height: 48px;
+   cursor: pointer;
+   font-weight: 700;
+   color: var(--white);
+   text-decoration: none;
+}
+
+.primary {
+   background-color: var(--primary);
+   font-size: 20px;
+   padding: 0 16px;
+   width: 332px;
+}
+
+.secondary {
+   background-color: var(--secondary);
+   font-size: 17px;
+   padding: 13px 50px;
+}
